@@ -4,4 +4,9 @@
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 
+/* Scale down images and embedded videos so they don't overflow their parents */
+img,
+object {
+	max-width: 100%;
+}
 
