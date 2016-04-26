@@ -8,6 +8,10 @@ Starter files for intro web design/development
 
 ***
 
+### About this folder
+
+Put the files that you would upload to a webserver in this folder. InDesign, Illustrator, and Photoshop files do not belong here, nor do original high-resolution images.
+
 ### More on the starter project
 
 Compiled by [David Ramos](http://imaginaryterrain.com)
