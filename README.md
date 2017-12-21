@@ -2,7 +2,7 @@
 
 Starter files for intro web design/development
 
-STUDENTS: remove this line and the ones above it. Add text that describes your project. Include your name, web address, code/image citations, and any notes. Failure to remove this notice and replace it with appropriate text *will* reduce your grade.
+STUDENTS: edit this file. Add text that describes your project. Include your name, web address, code/image citations, and any notes.
 
 
 
@@ -16,7 +16,7 @@ Put the files that you would upload to a webserver in this folder. InDesign, Ill
 
 Compiled by [David Ramos](http://imaginaryterrain.com)
 
-The code structure is designed for clarity rather than for browser performance. (Notably, we break CSS out into several files, to help keep code organized.) Even so, the slowdowns will be insignificant for most student/personal sites, and the speed fixes are easy to make.
+The code structure is designed for clarity rather than for browser performance. (Notably, we break CSS out into several files, to help keep code organized.)
 
-This project includes elements from HTML5 Boilerplate (see doc/h5bp/ for more).
+This project includes elements from HTML5 Boilerplate (see css/vendor/h5bp_README.md for more).
 
