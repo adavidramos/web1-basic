@@ -14,7 +14,7 @@ Put the files that you would upload to a webserver in this folder. InDesign, Ill
 
 ### More on the web1-basic starter project
 
-Compiled by [David Ramos](http://imaginaryterrain.com)
+Original project compiled by [David Ramos](http://imaginaryterrain.com).
 
 The code structure is designed for clarity rather than for browser performance. (Notably, we break CSS out into several files, to help keep code organized.)
 
