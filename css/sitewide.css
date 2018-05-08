@@ -49,3 +49,16 @@ body {
 	border: 5px solid #eee;
 }
 
+
+
+/* ------------------------------------------------------------ */
+/* A media query - styles for small and tablet-size screens */
+@media (min-width: 720px) {
+	
+	/* example style for container */
+	.container {
+		width: 100%;
+		padding: 1em;
+	}
+
+} /* end media query */
