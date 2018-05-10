@@ -51,11 +51,11 @@ body {
 	
 	/* container on larger screens */
 	.container {
+		width: 90%;
+		max-width: 1200px;
 		margin: 2em;
 		margin-right: auto;
 		margin-left: auto;
-		width: 90%;
-		max-width: 1200px;
 		padding: 2em;
 		border: 1px solid #ddd;
 	}
