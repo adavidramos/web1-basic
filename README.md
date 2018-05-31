@@ -10,7 +10,7 @@ STUDENTS: edit this file. Add text that describes your project. Include your nam
 
 ### About this folder
 
-Put the files that you would upload to a webserver in this folder. InDesign, Illustrator, and Photoshop files do not belong here, nor do original high-resolution images.
+Put the files that you would upload to a webserver in this folder. InDesign, Illustrator, Photoshop, Sketch, and Figma files do not belong here, nor do original high-resolution images.
 
 ### More on the web1-basic starter project
 
